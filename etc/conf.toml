@@ -34,7 +34,7 @@ peerfilenum = "5000"
 threadpoolsize = "30"
 
 #DSN : connect to database get meta data
-dsn = "root:root@tcp(172.16.4.155:4000)/test"
+dsn = "root:root@tcp(127.0.0.1:4000)/test"
 #record desc 
 fieldterm = "\t"
 lineterm = "\n"
